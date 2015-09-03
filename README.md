@@ -1,4 +1,4 @@
-# Code Formats for netbeans
+# Code Formats for Netbeans
 Provides Netbeans editor settings for multiple lanuages
 
 **References**
