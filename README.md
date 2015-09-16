@@ -10,3 +10,12 @@ PSR compliant settings
 **References**
 * http://www.php-fig.org/psr/psr-1/
 * http://www.php-fig.org/psr/psr-2/
+
+**Installation**
+* Download the latest build
+* Open Netbeans
+* Navigate to Tools > Options
+* Click the Import button in the lower left corner of the options panel
+* Choose import.zip from the latest build
+* Complete all of the steps in the import wizard
+* Restart Netbeans
