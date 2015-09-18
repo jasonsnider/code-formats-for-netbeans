@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE editor-preferences PUBLIC "-//NetBeans//DTD Editor Preferences 1.0//EN" "http://www.netbeans.org/dtds/EditorPreferences-1_0.dtd">
 <editor-preferences>
+    <!-- Force 2 spaces for indentation and tabs -->
     <entry javaType="java.lang.String" name="continuationIndentSize" xml:space="preserve">
         <value><![CDATA[2]]></value>
     </entry>
@@ -16,7 +17,44 @@
     <entry javaType="java.lang.Integer" name="tab-size" xml:space="preserve">
         <value><![CDATA[2]]></value>
     </entry>
+    
+    <!-- Force margin 80 -->
     <entry javaType="java.lang.Integer" name="text-limit-width" xml:space="preserve">
         <value><![CDATA[80]]></value>
+    </entry>    
+    
+    <!-- Force K&R: 1TBS brace style -->
+    <entry javaType="java.lang.Boolean" name="spaceBeforeCatchLeftBrace" xml:space="preserve">
+        <value><![CDATA[true]]></value>
+    </entry>
+    <entry javaType="java.lang.Boolean" name="spaceBeforeDoLeftBrace" xml:space="preserve">
+        <value><![CDATA[true]]></value>
+    </entry>
+    <entry javaType="java.lang.Boolean" name="spaceBeforeElseLeftBrace" xml:space="preserve">
+        <value><![CDATA[true]]></value>
+    </entry>
+    <entry javaType="java.lang.Boolean" name="spaceBeforeFinallyLeftBrace" xml:space="preserve">
+        <value><![CDATA[true]]></value>
+    </entry>
+    <entry javaType="java.lang.Boolean" name="spaceBeforeForLeftBrace" xml:space="preserve">
+        <value><![CDATA[true]]></value>
+    </entry>
+    <entry javaType="java.lang.Boolean" name="spaceBeforeIfLeftBrace" xml:space="preserve">
+        <value><![CDATA[true]]></value>
+    </entry>
+    <entry javaType="java.lang.Boolean" name="spaceBeforeMethodDeclLeftBrace" xml:space="preserve">
+        <value><![CDATA[true]]></value>
+    </entry>
+    <entry javaType="java.lang.Boolean" name="spaceBeforeSwitchLeftBrace" xml:space="preserve">
+        <value><![CDATA[true]]></value>
+    </entry>
+    <entry javaType="java.lang.Boolean" name="spaceBeforeTryLeftBrace" xml:space="preserve">
+        <value><![CDATA[true]]></value>
+    </entry>
+    <entry javaType="java.lang.Boolean" name="spaceBeforeWhileLeftBrace" xml:space="preserve">
+        <value><![CDATA[true]]></value>
+    </entry>
+    <entry javaType="java.lang.Boolean" name="spaceBeforeWithLeftBrace" xml:space="preserve">
+        <value><![CDATA[true]]></value>
     </entry>
 </editor-preferences>
