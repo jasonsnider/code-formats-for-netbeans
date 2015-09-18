@@ -11,6 +11,10 @@ PSR compliant settings
 * http://www.php-fig.org/psr/psr-1/
 * http://www.php-fig.org/psr/psr-2/
 
+
+## HTML, CSS, JavaScript
+I'm not following any guidelines for this, I'm simply using two spaces.
+
 **Installation**
 * Download the latest build
 * Open Netbeans
