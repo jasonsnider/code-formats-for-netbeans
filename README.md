@@ -13,7 +13,11 @@ PSR compliant settings
 
 
 ## HTML, CSS, JavaScript
-I'm not following any guidelines for this, I'm simply using two spaces.
+
+Mozilla coding style
+
+**References**
+* https://developer.mozilla.org/en-US/docs/Mozilla/Developer_guide/Coding_Style
 
 **Installation**
 * Download the latest build
