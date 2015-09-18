@@ -16,4 +16,7 @@
     <entry javaType="java.lang.Integer" name="tab-size" xml:space="preserve">
         <value><![CDATA[2]]></value>
     </entry>
+    <entry javaType="java.lang.Integer" name="text-limit-width" xml:space="preserve">
+        <value><![CDATA[80]]></value>
+    </entry>
 </editor-preferences>

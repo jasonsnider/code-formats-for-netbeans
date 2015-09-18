@@ -43,4 +43,7 @@
     <entry javaType="java.lang.String" name="on-save-remove-trailing-whitespace" xml:space="preserve">
         <value><![CDATA[modified-lines]]></value>
     </entry>
+    <entry javaType="java.lang.Integer" name="text-limit-width" xml:space="preserve">
+        <value><![CDATA[80]]></value>
+    </entry>
 </editor-preferences>
